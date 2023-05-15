@@ -18,5 +18,5 @@ spec:
   - group: '*'
     kind: '*'
   destinations:
-    - namespace: "*"
+    - namespace: '*'
       server: https://kubernetes.default.svc
