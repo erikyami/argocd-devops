@@ -20,3 +20,8 @@ Export svc
 ```
 kubectl -n argocd port-forward svc/argocd-server 8080:80
 ```
+
+
+```
+helm create cluster
+```
